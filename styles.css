@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+
+table {
+  border: 1px solid rgb(0, 0, 0);
+
+}
+td{
+  border: 1px solid rgb(0, 0, 0);
+
+}
+th{
+  border: 1px solid rgb(0, 0, 0);
+
+}
